@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent" android:background="#777">
     <FrameLayout
@@ -24,7 +25,8 @@
                 android:text="00:00:00 | 05:00:21"
                 android:layout_marginLeft="10dp"
                 android:gravity="center_vertical"
-                android:layout_weight="1"/>
+                android:layout_weight="1"
+                tools:ignore="HardcodedText" />
             <ImageView
                 android:id="@+id/video_mute_topbar_icon"
                 android:layout_width="30dp"

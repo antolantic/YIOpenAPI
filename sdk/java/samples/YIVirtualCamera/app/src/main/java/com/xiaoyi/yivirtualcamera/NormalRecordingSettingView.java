@@ -1,17 +1,12 @@
 package com.xiaoyi.yivirtualcamera;
 
-import android.app.Activity;
-import android.provider.ContactsContract;
-import android.provider.MediaStore;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
-import android.widget.SimpleAdapter;
 
-import com.xiaoyi.action.ActionCamera;
 import com.xiaoyi.action.ActionCameraCommandCallback;
 import com.xiaoyi.action.ActionCameraSettings;
 import com.xiaoyi.action.ColorMode;
@@ -26,9 +21,7 @@ import com.xiaoyi.action.VideoResolution;
 import com.xiaoyi.action.WhiteBalance;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 /**
  * Created by xyb on 11/17/2016.
@@ -1546,7 +1539,7 @@ class MyAdapater extends BaseAdapter {
 
     @Override
     public View getView(int i, View view, ViewGroup viewGroup) {
-        ViewHolder holder = null;
+        ViewHolder holder;
         if (view == null) {
             holder = new ViewHolder();
             view = mActivity.getLayoutInflater().inflate(R.layout.setting_item_view, null);
@@ -1561,7 +1554,7 @@ class MyAdapater extends BaseAdapter {
         } else {
             holder = (ViewHolder)view.getTag();
         }
-        SettingItem data = (SettingItem)mData.get(i);
+        final SettingItem data = mData.get(i);
         holder.view.setOnClickListener(data.onClickListener);
         holder.img.setImageDrawable(mActivity.getResources().getDrawable(data.imgId));
         holder.activeIcon.setVisibility(data.isActive ? View.VISIBLE : View.INVISIBLE);

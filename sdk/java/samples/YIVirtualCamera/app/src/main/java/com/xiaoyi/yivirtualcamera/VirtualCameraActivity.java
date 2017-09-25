@@ -7,7 +7,20 @@ import android.os.StrictMode;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
-import com.xiaoyi.action.*;
+
+import com.xiaoyi.action.ActionCamera;
+import com.xiaoyi.action.ActionCameraCommandCallback;
+import com.xiaoyi.action.ActionCameraCommandCallback1;
+import com.xiaoyi.action.ActionCameraListener;
+import com.xiaoyi.action.ActionCameraSettings;
+import com.xiaoyi.action.Logger;
+import com.xiaoyi.action.Platform;
+import com.xiaoyi.action.SystemMode;
+import com.xiaoyi.action.VideoResolution;
+import com.xiaoyi.action.VideoStandard;
+import com.xiaoyi.action.YICameraSDKDispatchQueue;
+import com.xiaoyi.action.YICameraSDKError;
+
 import java.io.IOException;
 import java.util.ArrayList;
 

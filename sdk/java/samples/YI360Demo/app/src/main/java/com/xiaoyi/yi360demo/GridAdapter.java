@@ -18,6 +18,8 @@
 package com.xiaoyi.yi360demo;
 
 import android.content.Context;
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -27,12 +29,13 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 class GridAdapter extends ArrayAdapter<Camera> {
-    public  GridAdapter(Context c, ArrayList<Camera> cameraList) {
+    public  GridAdapter(@NonNull Context c, @NonNull ArrayList<Camera> cameraList) {
         super(c, 0, cameraList);
     }
 
+    @NonNull
     @Override
-    public View getView(int i, View view, ViewGroup viewGroup) {
+    public View getView(int i, @Nullable View view, @NonNull ViewGroup viewGroup) {
         Camera camera = getItem(i);
         if (view == null) {
             view = LayoutInflater.from(getContext()).inflate(R.layout.camera_item_in_grid, viewGroup, false);
@@ -40,6 +43,7 @@ class GridAdapter extends ArrayAdapter<Camera> {
 
         // update name
         TextView text = (TextView)view.findViewById(R.id.nameText);
+        assert camera != null;
         text.setText(camera.getHostname());
 
         // update image
@@ -52,7 +56,7 @@ class GridAdapter extends ArrayAdapter<Camera> {
         return view;
     }
 
-    private int getCameraImage(Camera camera) {
+    private int getCameraImage(@NonNull final Camera camera) {
         switch (camera.getState()) {
             default:
             case Disconnected:
@@ -67,7 +71,7 @@ class GridAdapter extends ArrayAdapter<Camera> {
         }
     }
 
-    private String getCameraStatus(Camera camera) {
+    private String getCameraStatus(@NonNull final Camera camera) {
         switch (camera.getState()) {
             default:
             case Disconnected:

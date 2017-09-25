@@ -7,7 +7,7 @@ Fork of the original YITechnology/YIOpenAPI.
 It all compiles and generates APK's, that's it currently (23 sep 2017)
 
 * Removed
-  * Java IDE generated files, like .idea, .settings, .projects. Let your IDE generate the appropiate files.
+  * Lot's of Java IDE generated files, like .idea, .settings, .projects. Let your IDE generate the appropiate files.
   * Removed embedded gradle wrapper. Project's are configured to invoke the latest standalone gradle installed for example by (mac)ports (*BSD, macOS), homebrew (macOS), scoop (Win), rpm,dep, apk who kows what (Linux)
 
 Changed:

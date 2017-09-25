@@ -18,11 +18,16 @@
 package com.xiaoyi.yi360demo;
 
 import android.os.Looper;
-import android.util.*;
+import android.support.annotation.NonNull;
 import android.os.Handler;
+import android.util.*;
+
 import com.xiaoyi.action.*;
-import com.xiaoyi.action.YICameraSDKError;
+
 import java.util.Date;
+
+import static android.util.Log.i;
+
 
 enum CameraState
 {
@@ -86,7 +91,7 @@ class Camera extends ActionCameraListener {
         }
     }
 
-    public void startRecording(Date startTime) {
+    public void startRecording(@NonNull Date startTime) {
         if (mState == CameraState.Connected) {
             updateState(CameraState.StartRecording);
             mCamera.stopViewFinder(null, null).stopRecording(null, null).setSystemMode(SystemMode.Record, null, null)
@@ -96,7 +101,7 @@ class Camera extends ActionCameraListener {
                    .submitCommandGroup(null, new ActionCameraCommandCallback1<YICameraSDKError>() {
                        @Override
                        public void onInvoke(YICameraSDKError val) {
-                           Log.i("YiCamera", "Start recording failed");
+                           i("YiCamera", "Start recording failed");
                            if (mState == CameraState.StartRecording) {
                                updateState(CameraState.Connected);
                            }
@@ -127,7 +132,7 @@ class Camera extends ActionCameraListener {
                 // check current status
                 mCamera.getSettings(new ActionCameraCommandCallback1<ActionCameraSettings>() {
                     @Override
-                    public void onInvoke(ActionCameraSettings actionCameraSetting) {
+                    public void onInvoke(@NonNull ActionCameraSettings actionCameraSetting) {
                         if (actionCameraSetting.status == CameraStatus.Recording) {
                             updateState(CameraState.Recording);
                         }

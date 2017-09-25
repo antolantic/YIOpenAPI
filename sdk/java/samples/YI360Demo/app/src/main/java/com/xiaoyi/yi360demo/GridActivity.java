@@ -21,6 +21,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.net.wifi.WifiManager;
 import android.os.*;
+import android.support.annotation.NonNull;
 import android.support.v7.app.*;
 import android.util.Log;
 import android.view.Menu;
@@ -38,12 +39,13 @@ import com.xiaoyi.action.*;
 
 public class GridActivity extends AppCompatActivity {
     private boolean mStartScanTimer;
-    private GridView gridView;
+//    private GridView gridView;
     private AlertDialog mExitDialog;
     private Menu mMenu;
     public ArrayList<Camera> pendingCameras;
     public ArrayList<Camera> cameras;
     public GridAdapter gridAdapter;
+//    private String ip;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -72,7 +74,8 @@ public class GridActivity extends AppCompatActivity {
                     Log.e("YiCameraPlatform", message);
                 }
             });
-        } catch (Exception ex) {
+        } catch (Exception e) {
+            Log.e("Tag?", "Error: ", e);
         }
 
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
@@ -83,12 +86,12 @@ public class GridActivity extends AppCompatActivity {
         gridAdapter = new GridAdapter(this, cameras);
 
         setContentView(R.layout.grid_activity);
-        gridView = (GridView) findViewById(R.id.gridView);
+        GridView gridView = (GridView) findViewById(R.id.gridView);
         gridView.setAdapter(gridAdapter);
     }
 
     @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
+    public boolean onCreateOptionsMenu(@NonNull Menu menu) {
         getMenuInflater().inflate(R.menu.grid_activity_actionbar, menu);
 
         mMenu = menu;
@@ -124,7 +127,8 @@ public class GridActivity extends AppCompatActivity {
         selectCameras(24);
     }
 
-    private Camera getCameraByIp(String ip, ArrayList<Camera> cameras) {
+    private Camera getCameraByIp(final String ip, @NonNull final ArrayList<Camera> cameras) {
+
         for (Camera camera: cameras) {
             if (camera.getIp().equals(ip)) {
                 return camera;
@@ -134,7 +138,7 @@ public class GridActivity extends AppCompatActivity {
     }
 
     public void startRecording(MenuItem item) {
-        // Start recording after 10 seconds
+        /* Start recording after 10 seconds */
         Date date = new Date();
         date.setTime(date.getTime() + 10 * 1000);
         for (Camera camera: cameras) {
@@ -144,7 +148,7 @@ public class GridActivity extends AppCompatActivity {
         }
     }
 
-    public void stopRecording(MenuItem item) {
+    private void stopRecording(MenuItem item) {
         for (Camera camera: cameras) {
             if (!camera.getIp().isEmpty()) {
                 camera.stopRecording();
@@ -152,7 +156,7 @@ public class GridActivity extends AppCompatActivity {
         }
     }
 
-    public void exit(MenuItem item) {
+    private void exit(MenuItem item) {
         if (mExitDialog == null) {
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
             builder.setCancelable(true);
@@ -194,7 +198,7 @@ public class GridActivity extends AppCompatActivity {
     private void selectCameras(int cameraCount) {
         // check WifiHotSpot is enabled or not, if wifi hotspot is not enabled, show error
         if (!isWifiHotSpotEnabled()) {
-            showMessage("WifiHotspot is not enabled. Please enable it.");
+            showWifiHotspotErrorMessage();
             return;
         }
 
@@ -249,7 +253,7 @@ public class GridActivity extends AppCompatActivity {
                         String line;
                         while ((line = br.readLine()) != null) {
                             String[] splitted = line.split(" +");
-                            if (splitted != null && splitted.length >= 4) {
+                            if (splitted.length >= 4) {
                                 String ip = splitted[0];
                                 String mac = splitted[3];
                                 if (mac.matches("..:..:..:..:..:..")) {
@@ -277,7 +281,8 @@ public class GridActivity extends AppCompatActivity {
                                     String hostname = "";
                                     try {
                                         hostname = InetAddress.getByName(ip).getHostName();
-                                    } catch (Exception ex) {
+                                    } catch (Exception e) {
+                                        Log.e("Tag?", "Error: ", e);
                                     }
                                     Camera camera = new Camera(obj, ip, hostname);
                                     pendingCameras.add(camera);
@@ -305,11 +310,11 @@ public class GridActivity extends AppCompatActivity {
         }, 10 * 1000);
     }
 
-    private void showMessage(String message) {
+    private void showWifiHotspotErrorMessage() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setCancelable(false);
         builder.setTitle("Message");
-        builder.setMessage(message);
+        builder.setMessage("WifiHotspot is not enabled. Please enable it.");
         builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {

@@ -3,6 +3,7 @@ package com.xiaoyi.yivirtualcamera;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ImageView;
+
 import com.xiaoyi.action.ActionCameraCommandCallback;
 import com.xiaoyi.action.ActionCameraCommandCallback1;
 import com.xiaoyi.action.ActionCameraSettings;
