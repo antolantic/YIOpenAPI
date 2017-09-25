@@ -1,6 +1,26 @@
 # YI Open API
 
-YI Open API provides mobile SDKs and reference designs for software developers and hardware makers to build cool apps and products with YI 4K Action Camera. 
+Fork of the original YITechnology/YIOpenAPI.
+
+* All changes are realated to getting the Java examples working on a modern development environment.
+
+It all compiles and generates APK's, that's it currently (23 sep 2017)
+
+* Removed
+  * Java IDE generated files, like .idea, .settings, .projects. Let your IDE generate the appropiate files.
+  * Removed embedded gradle wrapper. Project's are configured to invoke the latest standalone gradle installed for example by (mac)ports (*BSD, macOS), homebrew (macOS), scoop (Win), rpm,dep, apk who kows what (Linux)
+
+Changed:
+
+* De-compiled the helpfile into a bunch of normal html files. 
+* * Removed the .cht file and added the html files. (Reason I was unable to enlarge the font size and the text was barely readable on high res screen)
+
+Status:
+
+* Gradle path is currently hardcoded
+* Don't know if a working apk is the end result. I build, packaged and checked everything succesfully...
+
+## Original Yi Open Api Readme
 
 This repository contains the libraries, samples and documentation for using the SDKs; it also contains the design diagrams, firmwares, references specs for building hardware systems.
 

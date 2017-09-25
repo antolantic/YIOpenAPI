@@ -1,0 +1,490 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Introduction"><param name="Local" value="index.html#introduction_section"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Quick Start"><param name="Local" value="index.html#quick_start_section"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="xiaoyi"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="action"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ActionCamera"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ActionCamera"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a1c71b63d245062d4f89f6e72091bfa35"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="cancelDownload"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a9c5ab1b782cf7d2fcb04adcb55f78988"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="capturePhoto"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ab18a730623ed386a5e63adb3c63d3c75"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="connect"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a8de04df8b8a19039cb38962409972e7b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="deleteFile"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#affd16e0728f330831e0e397a4dc6419a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="disconnect"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#acb280e905038ab469cbce2aa43739e74"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="downloadFile"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a297dcfbe9067f9a192d7d8fedbe66e93"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="formatSDCard"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a76ed1b5d295148c4d13c787e5f7ccd28"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="generateLiveBoardcastQRCode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ad42b38d5add055a6c4667ff6a91ac281"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getAutoPowerOff"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#aff4b49231e6412aea76d84463f1a8249"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getBuzzerVolume"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ac7af021d64779538975558ff5764af82"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getCaptureMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a6678674d576112c1c8134f1c83032995"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getElectronImageStabilizationEnabled"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ac37b9098439d5bce090376226a3e8030"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getFileList"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a4d5ec0dd4390feefa13705f2c87d9c24"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getLEDMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a5e235c5b6704a517fdcd666aeac7cb6f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getMeteringMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ad0aabcf42476ecae1127ad348a3997f9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getPhotoColorMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a21fb8214b32011123878563539ace947"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getPhotoExposureValue"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a8194e16391a9e523b2e64c35545695ec"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getPhotoISO"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#aca74b55da1cd00f8e8f6e7d498c01c02"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getPhotoResolution"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ac1d666e46d4c0289a1812a85681632e4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getPhotoSharpness"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ac28587e5084872f9c0829d282db81759"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getPhotoShutterTime"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a7a51ab7669231443ae77c184192b15b5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getPhotoTimestamp"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a371f045d016544c12575c3a46addd8b8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getPhotoWhiteBalance"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a50a59ee486877a8959b915127e7053b0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getRecordMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a07ad614758738f6cc754fd9068360472"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getRtspURL"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a4dd7176dc14b4987376a0d0dca964846"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getScreenAutoLock"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#aec4663142ad0c55edfa8196538cb5105"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getSettings"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a4bd609462e11fe4bf70d93e662d573cb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getStatus"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a05d997378c71b658d5755c93c5ccd09c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getTimeLapsePhotoInterval"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#aa7cad2d5f498b208d696b66cc1cc354a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getTimeLapseVideoDuration"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a2f6e698a3e2e760e5d2b5b1350353855"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getTimeLapseVideoInterval"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ac28f3d5d0445ab514666349c57d55758"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getVideoColorMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a503de9e06c8583fe83daee632c23ff5c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getVideoExposureValue"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ae1bab933f23a9cb38f4c4cdefb6c1609"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getVideoFieldOfView"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a6f399df0d29629b2b52c73c0a4b6efbf"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getVideoISO"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a3f650a3f1e9508a5c64c336d53dc5634"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getVideoMuteEnabled"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a4e805c204aec94fe86616c8fcbd761db"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getVideoQuality"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a9901ccb7bbfd1fa25e88c1ebc0db59ce"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getVideoResolution"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a7f6abfe2b47aa07eda2ad896c3fca9b1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getVideoRotate"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a27b3f3fed7069af9301c2e4fd8595e40"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getVideoSharpness"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a8f6070395c49df386da014d91a78bedb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getVideoStandard"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a68cad547b2c2bbb2cc89e5a7425269db"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getVideoTimestamp"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a1adba3ed2d1dad44d3a740ea29bca89d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getVideoWhiteBalance"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ac47acbebe8f7e21ae7ff31d2f6ae6dfd"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setAutoPowerOff"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ab1e71e67272ad670bcfb7a0deb0e8685"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setBuzzerVolume"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#af878805a7bb35db0249941755e2aeef3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setCaptureMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a5c35f8d49a64e6810ed1db9401656272"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setDateTime"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a4cd994c0a8198c402b57286d61e64ea9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setElectronImageStabilizationEnabled"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a30a977e71b950024aaf1bcfadd97eb8f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setLEDMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#aadc681e935582deef31e16e7b7bc2e96"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setMeteringMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a17d2b711db494b2f49b2e014982025ee"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setPhotoColorMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#aa2f8db755049c928e9151080978036a6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setPhotoExposureValue"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#afd4fb413d64afdd943ea68dbf48ec29b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setPhotoISO"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a66df31d93fe9bbe767a0ddae27e857ab"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setPhotoResolution"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a42c16febbbd9a069693eae036ed3dca9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setPhotoSharpness"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ae5ae2c155e30182c5e242d1f17e33450"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setPhotoShutterTime"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ac0de1d00c192ba693010cc5030cac1a6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setPhotoTimestamp"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ab6ad25e170f3c5eea6360a93250a3f15"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setPhotoWhiteBalance"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#abe9d795117f239f887f5275d59808c4a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setRecordMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#af7342eba5af2ace92dab27f02bdfdd1a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setScreenAutoLock"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a33efccfe6ee9c6accef29ea149eb9e7e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setSystemMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a985c50f27ffb72b1dcc6ad6379083934"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setTimeLapsePhotoInterval"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a6d6e976af9ce50164d511c69a2dda06f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setTimeLapseVideoDuration"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a513c6442c60d127ec38d87f64ee39055"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setTimeLapseVideoInterval"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a069474b605672bba713d4bd91c04561f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setVideoColorMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a392434af3e80c4c26d2ac8abcf80b6c2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setVideoExposureValue"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a1bc34f8bf1471088df9b6ee056f1058d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setVideoFieldOfView"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#af26920beaa584b1fa35299aae3ed1749"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setVideoISO"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ae2604eb9e5dce74b72f5046a6f0a585b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setVideoMuteEnabled"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#aeb6e6a7a838dfe81c42fbd97d58fea71"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setVideoQuality"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a5a7d3a404633ffc42db6cf7e5316b20f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setVideoResolution"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a91f0b4bd4b0824db61f05c6a6c047aed"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setVideoRotate"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a7c65035bd5ad332ec1bf5214d5b2eba5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setVideoSharpness"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ab0e1ac51dde7d9a05454a930afaa974c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setVideoStandard"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#ad83d1a884ab9bbf1ecf339204767d143"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setVideoTimestamp"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#af6eb94dcc2d1b7e3661bf0191b3a2894"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setVideoWhiteBalance"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#aca6c49cc54470b820ebb58942b77d4de"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="startRecording"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a4836d725342f755564a17257c4085b56"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="startRecording"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a4ef9f98d563e83308e7fc739a1ed9e34"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="startViewFinder"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a6a545c11296fc9fbe4cdbdcb7f8fc023"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="stopRecording"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#a3241e9beeaa7c5d18b66ea3d99a5bb60"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="stopViewFinder"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera.html#aceb4884e604eae42d35c385102bf6eec"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ActionCameraListener"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_listener.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onBatteryLifeChanged"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_listener.html#a4c33b1f0569c21e6a860720ea056fc95"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCaptureStarted"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_listener.html#a931b5419907099e3ad6f78da67669d2b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCaptureStopped"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_listener.html#a8c82317a3dccbc6f655c38a9826f44e4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onClosed"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_listener.html#abd4be8f81f9f8d4ecaef49723d3c59ae"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onConnected"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_listener.html#a49cd4e12ebad365714fcf09064767cc4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onRecordStarted"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_listener.html#a2cca99758087739e7d073cc3a71dae23"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onRecordStopped"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_listener.html#a08f30edbcca01888fb11a190e107ed07"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onSDCardFormatted"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_listener.html#acb361c67113b953d64d58b26125fde20"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onViewFinderStarted"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_listener.html#a791eb4cf6c802a628fd4d0a5d2f15d85"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onViewFinderStopped"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_listener.html#af6ab32b49d04ec1af683e441a5faafd0"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ActionCameraSettings"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="autoPowerOff"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a5669105945dc5f9a031c69ea2cf38fd8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="buzzerVolume"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#af541d9ca50de4fbc24e32b25393d205d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="captureMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a37ac0d24bb93317133addc452efc986e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="clock"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a564bc60b4ff2c525a16ad1294110605f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="electronicImageStabilizationEnabled"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a39ef76fbe9cce510085ef49a24088e38"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="hardwareVersion"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#afa668f94272485ac1cbf6a993366ada2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ledMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#ac5f59b3bd1e6fc0437303788f1fe5bcd"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="meteringMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#af44fc0653d21b319ff08aa53404e9ffd"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="photoColorMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#aba5543f1b8a2beaef9b64b18ae300f73"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="photoExposureValue"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#ad569893da0c4635bcac4ace6eaaa5e70"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="photoISO"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a8acede29b2685502ddf96692eee8fe8c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="photoResolution"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a2e43d3496e2f1c9dd2b9656fdc55a143"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="photoSharpness"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#aa066a782cb634f32676d84b80b6a6395"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="photoShutterTime"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#abffa92cf5c47e397214ea7aab0b74cc8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="photoTimestamp"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a863c456dd6371180f97d369d05bb9ec2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="photoWhiteBalance"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a5b982cb80fe294d25794b1cae2b71bc4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="productName"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#ac8a3438025e046f05e932984098428fe"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="recordMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#aee2952c1f3f47bfae8edaa542c372807"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="screenAutoLock"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a03ba3d511ebe18f76ff32d5cd2a649f9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="serialNumber"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a3b19bff2a76da204cc54754698c17309"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="softwareVersion"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a6af7f33b47e3af397518d991424eddb8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="status"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a5915aef4bc5f7454344ae27773083398"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="systemMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#aec83d30eb25a36c743ea401bec3b68ca"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="timeLapsePhotoInterval"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a8dbac942bc724d251c9f3d46a9384caa"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="timeLapseVideoDuration"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a28565494d2beb689a275ce4f3d5262de"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="timeLapseVideoInterval"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a92f850624821b307ae14f4937f8bf382"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="videoColorMode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#ab80a28faba3d9ff744909224b3e8901f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="videoExposureValue"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#add2d79d2e439b3feedd6b15b2765901c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="videoFieldOfView"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#ac447bc7c4441135748a9debcf1596a8a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="videoISO"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a2329da80dcdcea143c3580657d899653"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="videoMuteEnabled"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#add5d9614a9cb335c6e6e9650e61937ee"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="videoQuality"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#ad12a6f1a9341ed8c9507f64df163b27f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="videoResolution"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a34571a9a9b988142bb18c2cc2766eb83"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="videoRotate"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#af2b08d5dfbdf0954493fbba9d1939b70"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="videoSharpness"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a172546bea7d96268a7f72482435143b7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="videoStandard"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#ad4a094ae067906ec3375096bed3651d6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="videoTimestamp"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a39cbd1f10613b693f71443acf086bff7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="videoWhiteBalance"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_action_camera_settings.html#a7f27e72caa5439f40a9309cecc98156f"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AutoPowerOff"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_auto_power_off.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="a_10m"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_auto_power_off.html#afdf0e8e13fee28d880fe4183209729a8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="a_3m"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_auto_power_off.html#a8f4e73f0770b5b8f4b7efb4f872caeec"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="a_5m"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_auto_power_off.html#acd052577f6f465af1e9846b07f64c1f7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="a_Off"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_auto_power_off.html#ab44e9c6d0d8eb351f4e278f71a5f67bc"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_auto_power_off.html#a9b2b720eb9b0abdab73e527f44a660f5"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BroadcastBitrate"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_broadcast_bitrate.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_broadcast_bitrate.html#a785e8246883988c17f738c620e493a75"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="High"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_broadcast_bitrate.html#aa90d872499124f0b7cc3859fd13acd91"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Low"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_broadcast_bitrate.html#a8f79ad05aa9e2780a5a6384d86bea221"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Middle"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_broadcast_bitrate.html#ab850d5e3cd997e440c74464ca4ce31aa"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BroadcastResolution"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_broadcast_resolution.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="r_480p"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_broadcast_resolution.html#aa30b0749dd4f026a2ea250a36a4cf367"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="r_720p"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_broadcast_resolution.html#a30b4db12ff18067a19ac1e1d015cda2e"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BuzzerVolume"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_buzzer_volume.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="High"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_buzzer_volume.html#a65df78b0f468d74795a90996c2c06fc0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Low"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_buzzer_volume.html#a6a55f0ec99e7c336068542d6e375f2b3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Mute"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_buzzer_volume.html#a9a56454eb1c757b76890ddfef44251e5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_buzzer_volume.html#a2077101c1f4fd94f3f006f6b82cc682f"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CaptureMode"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_capture_mode.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Normal"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_capture_mode.html#ac765273f1e997401e0dca67a8137108c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_capture_mode.html#a388110db28e35839be1bd2f07c438a8f"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ColorMode"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_color_mode.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Flat"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_color_mode.html#a123d423fd00b2fed00b6c122d2879ee0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_color_mode.html#ac940875e26885ae5db0798f0e6772b3e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="YIColor"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_color_mode.html#acf9d1110487ce804713987c43b74eaa7"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DispatchQueue"><param name="Local" value="interfacecom_1_1xiaoyi_1_1action_1_1_dispatch_queue.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="dispatch"><param name="Local" value="interfacecom_1_1xiaoyi_1_1action_1_1_dispatch_queue.html#a7530c6bab02e75946065cbfc007a41c5"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DownloadTask"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_download_task.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="destFilePath"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_download_task.html#ad43a21f2db2cb931a047b5b758a530f8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="downloadedBytes"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_download_task.html#a4a110fa25694a8bb53df4f61c43efa8f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="fileName"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_download_task.html#a6ba7084174b78c7d2099dbbb039f6199"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="totalBytes"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_download_task.html#a1786cd62506507dfcdaa95603f1c66b3"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Enabled"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_enabled.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Off"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_enabled.html#af429ceb92fcda2e22a169c60f0e504b3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="On"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_enabled.html#a5f65839861dc8653cbcd39ec269a7251"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_enabled.html#a539f6b2cf5603ed8f9b1e022c8cac619"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Error"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_error.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getCode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_error.html#a9f225f7920d8ff49e463dbdf3c06099e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getDetail"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_error.html#a015670777d6e83b75de9fef94c51f206"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getSubError"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_error.html#af43400a7bc15c5383d7e0e3a6faa74b8"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ErrorCode"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_error_code.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ExposureValue"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_exposure_value.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ev_0"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_exposure_value.html#a7c5fe3287b78a852c99c0dc90a20ed84"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ev_negative_0_point_5"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_exposure_value.html#a06263db9c13413864ef20397e949c3d8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ev_negative_1"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_exposure_value.html#a1babd0877a0a1d0a9c4b0d2f926b6152"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ev_negative_1_point_5"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_exposure_value.html#a525e95b9d2851c3160b51e7d71d6dbae"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ev_negative_2"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_exposure_value.html#aa7d84aecca5752372db17e893cc9b4a6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ev_positive_0_point_5"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_exposure_value.html#a732804f84cd0964af61210ede6e1fdf9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ev_positive_1"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_exposure_value.html#a2bc02e1af626f3a6624f6199076b0fd9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ev_positive_1_point_5"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_exposure_value.html#aa70c493fdfd2b35e6f2f01a371c8843c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ev_positive_2"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_exposure_value.html#ab300035ea27abd1666c967d123739bf8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_exposure_value.html#a360bf4e5f9f50d655295164632bfff3d"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FieldOfView"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_field_of_view.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Medium"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_field_of_view.html#a7d7141d4caa2735dee0910867acf89e1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Narrow"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_field_of_view.html#a4e50c9bb4e39b01879c338c77d95dd70"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_field_of_view.html#adabae903e968067d8a5460daeddb4fb7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Wide"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_field_of_view.html#a04cca28c60e961955a674137d46fbeaa"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="File"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_file.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_file.html#af9aeef050099b6380c6b612147d85193"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="size"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_file.html#a51dd14441b7648d0bc0460884da10b16"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="time"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_file.html#ae70bcc59996e2c42fcd7df1aa476210f"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ISO"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_i_s_o.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="iso_100"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_i_s_o.html#a840f60949a3f34139b623821698f2f6c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="iso_1600"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_i_s_o.html#aa743609fd356b5b67a0fa0abac517cdf"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="iso_200"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_i_s_o.html#af8eb7c4a21f8306f7abe7ebb3b447a16"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="iso_400"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_i_s_o.html#a0b6cb21abd78730ad64c1df7c990876c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="iso_6400"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_i_s_o.html#a7e75cf46953e53e7d1cfe4958e2d6bc6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="iso_800"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_i_s_o.html#a280dfcbeb6e89228d3054deed558a59c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="iso_Auto"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_i_s_o.html#a8abff3a3d41b4d1e54066d2426bd009c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_i_s_o.html#ac93a70a252dab8fec8fb0b8e611e95ca"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LEDMode"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_l_e_d_mode.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AllOff"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_l_e_d_mode.html#a36aaa17692dcada175b8cd8756d872af"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AllOn"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_l_e_d_mode.html#a67a6ed307dbf849e741fbddd1e78d050"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="StatusLightOnly"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_l_e_d_mode.html#a40a23401b31dfc3a178692e5ccdfe5e8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_l_e_d_mode.html#a47136fc2be3a3cf56a87624b563542c6"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Logger"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_logger.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="error"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_logger.html#adef76c0b0ed939b6e31a707220530c6c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="info"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_logger.html#ab053da4227eb5dd668129c4ac078520d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="verbose"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_logger.html#a5b7343a881918989df9e7c5374002ce3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="warning"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_logger.html#ac78f9352673c39c4d1b4768a3cfbac0e"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MeteringMode"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_metering_mode.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Average"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_metering_mode.html#aee1b9914983d301308edc2012549fa37"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Center"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_metering_mode.html#a003794a259ce1952fbc32671bd4c5903"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Spot"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_metering_mode.html#ad66ea9817676b6221139537c0e9f219c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_metering_mode.html#a2a3595c29b93e64b4ea462120aab8943"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PhotoResolution"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_photo_resolution.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="p_12MP_4000x3000_4x3_w"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_photo_resolution.html#a134b0465ff7389e5f9e39dfa71555890"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="p_5MP_2560x1920_4x3_m"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_photo_resolution.html#a1b94e76df3941081e4edddedec870402"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="p_7MP_3008x2256_4x3_m"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_photo_resolution.html#a7797d8b6b8e5e3a6401c1e31f0db1a81"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="p_7MP_3008x2256_4x3_w"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_photo_resolution.html#a60407720de696852f06d3b2b5c696cbb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="p_8MP_3840x2160_16x9_w"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_photo_resolution.html#ae571bdb48520eab74544429863584c06"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_photo_resolution.html#a176338f696dca087fef6bc3df5782987"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Platform"><param name="Local" value="classcom_1_1xiaoyi_1_1action_1_1_platform.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Quality"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_quality.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="High"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_quality.html#ad4a5b732c3677b0a507b6c891c4faa5a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Low"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_quality.html#ae8f880cd42e7144bbbd004b19e87d76f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Middle"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_quality.html#a9e7f0149efd97bab9ce6c75ac09bc35f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_quality.html#a7b2710d7c6f2d44b127cf9abfeca497d"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RecordMode"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_record_mode.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Normal"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_record_mode.html#adf8b81a1c39cd47217854a9804703d2e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Timelapse"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_record_mode.html#a6046e82b2fc484d925b5a2aea235d337"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_record_mode.html#a7260f4576eb772c20f66e9f6f899704a"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ScreenAutoLock"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_screen_auto_lock.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="s_120s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_screen_auto_lock.html#a15de61eab1b286fd7c520ed2b9e51a83"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="s_30s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_screen_auto_lock.html#aff5724bbd939209be5079f2f412bb00c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="s_60s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_screen_auto_lock.html#a01c34c77df19c58dbc0435259ca1b0b4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="s_Never"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_screen_auto_lock.html#a3ed2dc59405b610febd55987829961de"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_screen_auto_lock.html#a2fbd50c9ccff3b0042117e6639c26183"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Sharpness"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_sharpness.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="High"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_sharpness.html#adbf36c7e0b2b8418cbf911a09e3c637a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Low"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_sharpness.html#a0858a795c621284ce5a3b0a350ad066e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Medium"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_sharpness.html#a94e7e63b831cbe407b264adc9aa68c16"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_sharpness.html#a169d05614e1f634a96f971c9a3e2319e"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ShutterTime"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_shutter_time.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="st_10s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_shutter_time.html#a54f7ad1341d84771f9b8e5f26909f9c0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="st_20s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_shutter_time.html#a3314fa12557091122e361ea451d9e8f1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="st_2s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_shutter_time.html#a85bcec7f4e3cc00525ed071346889790"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="st_30s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_shutter_time.html#a9e3774e656a30cf0b9be8db49656f0fa"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="st_5s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_shutter_time.html#a75502032101d581aeeb00ac6ae93819a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="st_Auto"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_shutter_time.html#ace79b66269e8229fafae334e3e170c02"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_shutter_time.html#aedab69fe7b316d4eff8f554f7115b2e7"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Status"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_status.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Idle"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_status.html#a108c70c551eef6c1f02415e44cefcc96"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Recording"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_status.html#a6294dd419817650e1334f6df85ca0414"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_status.html#a60d443c0ef4f5869cec4691e13ca8081"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewFinderStarted"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_status.html#a4405ba35bbe47a8e7e1098b39d37022e"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SystemMode"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_system_mode.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Capture"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_system_mode.html#a59be8ebb391c44cc969ca7f6d2f5f94d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_system_mode.html#af628ffaec0af1d6286d40ebcf2ad6a69"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_system_mode.html#a595b122f89c6c140ca7a35ef0721bf0f"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TimeLapsePhotoInterval"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_0_5s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html#a010f2fbf29b9293e3a73b95fc5654423"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_10m"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html#a38ff6a6e659fc559e548fee190334352"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_10s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html#a3ed4c4ff226853f3453df88116c06aa5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_1s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html#a5714e4b3c2949014aa43e177b4116ae3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_2m"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html#a521d229a6941ce5ad89cf662dd34d5fc"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_2s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html#aeefe4b7bb725093814f262f722429b66"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_30m"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html#ac990a1b18f06d9d89c3be748fcc9aa18"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_30s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html#aac248bc448b628f2b41f5dc6a78b20b8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_5m"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html#ae0cb1708aae67b7740f9745e272cc801"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_5s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html#a115416ee7b8b7087162df4976b1b96d5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_60s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html#a9bce99c367134d00324256e8dadefc41"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_Continue"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html#a9c7d67250258d471b381f55a13bf3a17"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_photo_interval.html#a6319065450a43913182be0f501c267b9"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TimeLapseVideoDuration"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_duration.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_10s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_duration.html#a9edda6c96fdc49ca07ec6f201a844e65"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_20s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_duration.html#aee07261ffe5a4123f1558f5798ec35ef"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_30s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_duration.html#a20a8b28801a4d066d25bd54ed64aac34"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_60s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_duration.html#a9f63ec618a8a0754673ca6a63ae8eb8a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_6s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_duration.html#a81482bcba29f60f003e457dadc430ccd"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_8s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_duration.html#ab4d9254c32cfa2590d0970dd854d1cef"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_Off"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_duration.html#a402226c8f9f41b5cf6289c0e678f1066"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_duration.html#a5a47eef9e59e6fdc0bdbf3e427ea0585"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TimeLapseVideoInterval"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_interval.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_0_5s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_interval.html#a85b7f5ceb478e35cc00f54515d3a2eb5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_10s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_interval.html#ad3b2e5671a44f1efa5a65cad7d1e85cc"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_1s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_interval.html#a33c105e89d2b2c382c3e271d19918385"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_2s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_interval.html#a295bc61df96ea8d32368641233609029"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_30s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_interval.html#ae21489266bbc3f0fc82c5131aad8c2d4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="t_5s"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_interval.html#af0a62682597615b1175153b2bfee53f7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_time_lapse_video_interval.html#a0eb6bb17630433a6e71e393e6ae059de"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Timestamp"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_timestamp.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Date"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_timestamp.html#a3aadcc089a141f01a21ccc1ef0a93742"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="DateAndTime"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_timestamp.html#ad380afb3c0cdd91209eb58b16f97a51a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Off"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_timestamp.html#aeddb50527c86c9af97694c9a3e8df5c8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Time"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_timestamp.html#a15c736e084e953eb352c3ccfb7a4d3e1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_timestamp.html#af5d899feb4919819e856a5f0c94794ea"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="VideoResolution"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a39775bc2a0f596976125924472822699"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_1280x720_120p_16x9_super"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a770414fb800bb94329a9222d3d7eb83f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_1280x720_240p_16x9"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a02cdaea3121ddef38ebc5dd51f8858aa"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_1280x720_60p_16x9_super"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a8cf4c0fb628c43a260e5eb198d61e171"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_1280x960_120p_4x3"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#af35ff5a6307353277b43d431d41f1e06"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_1280x960_60P_4x3"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a1940e1848cc878ea72d4286c9ab4f8b3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_1920x1080_120p_16x9"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a1034ec065d9fbf143bfa21d07b78bd4d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_1920x1080_120p_16x9_super"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#ab35a1699ef33654b2ce9a22c0ca073cc"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_1920x1080_30p_16x9"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a4626e6a9a3ca3c83752c1fbe6763394f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_1920x1080_30p_16x9_super"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a68a254dc0507c1f10df3e7ab3239eca0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_1920x1080_60p_16x9"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#ab88cef126842d8abe657f1dff3081e36"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_1920x1080_60p_16x9_super"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a9fad7d509e5b694ef0bec3286ddbb2da"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_1920x1440_30p_4x3"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a850ddbe6f2d6be08d60a127f8d185ae2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_1920x1440_60p_4x3"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a76b75437c0e1efea457193992215f07b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_2560x1920_30p_4x3"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a514ac4d011d0ccc5d6eeac0d5d862279"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_3840x2160_30p_16x9"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a3a15c67599ab4cc757ee7f1fcb001698"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_3840x2160_30p_16x9_super"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#a0c58bd2cbb61370a2628e3bbc25f830a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="v_840x480_120p_16x9"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_resolution.html#af9662136afa925dd208b0b5844957188"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="VideoRotate"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_rotate.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_rotate.html#a71598e12c4c8a62c6484eb6069456c3c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Off"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_rotate.html#a0ebe229b3fceaa583534265343e3c6ec"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="On"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_rotate.html#ae826337e3502d08d093e906d848c06c4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_rotate.html#a084fa83f8ef263564cdcc09e365b937b"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="VideoStandard"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_standard.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="NTSC"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_standard.html#afd9701da813623b7049f4a019f8587db"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="PAL"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_standard.html#a983dabd8e597f0792a8752404917810d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_video_standard.html#a567d10febb3df4dfcd6cea1fc361e762"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="WhiteBalance"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_white_balance.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_white_balance.html#a1ad862ccc967febd983aed20ef4e093f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Cloudy"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_white_balance.html#ad307cd613489da4551ccc0c239cbb9f4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Daylight"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_white_balance.html#a6822d1c77bcd4c265a0ab8f12683788f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Native"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_white_balance.html#a363662407340377b2b8b723fcc6206df"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Tungsten"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_white_balance.html#a88ccea59cf13b0f686f664a12fe66a69"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Unknown"><param name="Local" value="enumcom_1_1xiaoyi_1_1action_1_1_white_balance.html#a3f3f8766705bb7b5a1c1ea093956f4bb"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="functions_b.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c"><param name="Local" value="functions_c.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="d"><param name="Local" value="functions_d.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="e"><param name="Local" value="functions_e.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="f"><param name="Local" value="functions_f.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="functions_g.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="h"><param name="Local" value="functions_h.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i"><param name="Local" value="functions_i.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="l"><param name="Local" value="functions_l.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m"><param name="Local" value="functions_m.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="n"><param name="Local" value="functions_n.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="o"><param name="Local" value="functions_o.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p"><param name="Local" value="functions_p.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="functions_r.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="s"><param name="Local" value="functions_s.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="t"><param name="Local" value="functions_t.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="u"><param name="Local" value="functions_u.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="v"><param name="Local" value="functions_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="w"><param name="Local" value="functions_w.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="y"><param name="Local" value="functions_y.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="functions_vars_b.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c"><param name="Local" value="functions_vars_c.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="d"><param name="Local" value="functions_vars_d.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="e"><param name="Local" value="functions_vars_e.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="f"><param name="Local" value="functions_vars_f.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="h"><param name="Local" value="functions_vars_h.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i"><param name="Local" value="functions_vars_i.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="l"><param name="Local" value="functions_vars_l.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m"><param name="Local" value="functions_vars_m.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="n"><param name="Local" value="functions_vars_n.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="o"><param name="Local" value="functions_vars_o.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p"><param name="Local" value="functions_vars_p.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="functions_vars_r.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="s"><param name="Local" value="functions_vars_s.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="t"><param name="Local" value="functions_vars_t.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="u"><param name="Local" value="functions_vars_u.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="v"><param name="Local" value="functions_vars_v.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="w"><param name="Local" value="functions_vars_w.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="y"><param name="Local" value="functions_vars_y.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

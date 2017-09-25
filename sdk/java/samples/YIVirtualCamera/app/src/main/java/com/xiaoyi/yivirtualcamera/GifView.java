@@ -4,9 +4,8 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Movie;
 import android.util.AttributeSet;
-import android.widget.ImageView;
 
-public class GifView extends ImageView {
+public class GifView extends android.support.v7.widget.AppCompatImageView {
     private Movie mMovie;
     private long mStart;
 

@@ -17,6 +17,7 @@
 
 package com.xiaoyi.yi360demo;
 
+import android.content.Context;
 import android.content.DialogInterface;
 import android.net.wifi.WifiManager;
 import android.os.*;
@@ -180,7 +181,8 @@ public class GridActivity extends AppCompatActivity {
 
     private boolean isWifiHotSpotEnabled() {
         try {
-            WifiManager wifiManager = (WifiManager) getSystemService(WIFI_SERVICE);
+            Context ctx = getApplicationContext();
+            WifiManager wifiManager = (WifiManager) ctx.getSystemService(WIFI_SERVICE);
             Method isWifiApEnabledMethod = wifiManager.getClass().getMethod("isWifiApEnabled");
             return (boolean)isWifiApEnabledMethod.invoke(wifiManager);
         } catch (Exception ex) {
